@@ -1,0 +1,10 @@
+name: ShadowEraCore
+main: me.BrandonSteed.ShadowEra.ShadowEra
+version: 4.3
+authors: [GeneralOfGames]
+commands:
+
+  shadoweracore:
+    description: Something to load commands
+    usage: /<command>
+    
